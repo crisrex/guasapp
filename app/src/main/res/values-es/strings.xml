@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="chats">Chats</string>
+    <string name="estado">Estados</string>
+    <string name="search">Buscar</string>
+    <string name="settings">Ajustes</string>
+    <string name="verify">Verifica tu número de teléfono</string>
+    <string name="send">Wasapp enviará un mensaje SMS para verificar tu número de teléfono."</string>
+    <string name="type_number">Escribe tu número de teléfono</string>
+    <string name="continue_text">Continuar</string>
+    <string name="verify_phone">Verificar +34654321321</string>
+    <string name="otp">Introduce el código recibido para verificar tu número.</string>
+    <string name="enter_otp">Introduce código</string>
+    <string name="sample_name">Nombre</string>
+    <string name="online">En línea</string>
+    <string name="type_message">Escribe un mensaje...</string>
+    <string name="profile_info">Datos personales</string>
+    <string name="name_picture">Introduce tu nombre y una imagen de perfil opcional.</string>
+    <string name="type_name">Escribe tu nombre</string>
+    <string name="setup_profile">Modificar perfil</string>
+    <string name="add_status">Añadir a tus Estados</string>
+    <string name="tap_chat">Toca para charlar</string>
+    <string name="tap_status">Toca para ver Estados</string>
+    <string name="verify_otp">Verificando código</string>
+    <string name="verify_text">"Verificando "</string>
+    <string name="please_enter_otp">Por favor, introduce el código</string>
+    <string name="login_failed">Falló la identificación</string>
+    <string name="uploading">Subiendo imagen</string>
+    <string name="uploading_status">Subiendo estado</string>
+</resources>
