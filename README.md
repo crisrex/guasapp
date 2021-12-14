@@ -7,7 +7,9 @@ Antes de el día 20 de diciembre de 2021 a las 8.00 horas, en el correspondiente
 ## Calificación
 Partiendo del código suministrado en este repositorio habrá que ir haciendo una serie de modificaciones que se calificarán de la siguiente manera:
 
+
 - Añadir un  componente para introducir el prefijo del país en el registro de teléfono. Se podrá hacer mediante un campo de texto (3 puntos) o mediante algún componente de los ya creados para ello, ej. https://github.com/hbb20/CountryCodePickerProject (10 puntos).
+Nota: Esto ahora no estará visible en la app, pero sí está en el código y sigue siendo puntuable
 
 
 - En mainactivity quitar el icono de settings en el menú y que aparezca en su lugar, oculto siempre, el texto "Ajustes", que se mostrará tras pulsar los tres puntos del menú. (3 puntos)
@@ -24,4 +26,5 @@ Partiendo del código suministrado en este repositorio habrá que ir haciendo un
 
 - Se filtrará la lista de mensajes de manera que no aparezcan nada más que aquellos con los que se han tenido conversación. Habrá un botón de tipo "FloatingActionButton" que permitirá añadir un nuevo chat. Cuando se pulse este botón se mostrará una lista de usuarios con los que no se ha chateado y al pulsar uno de ellos, te llevará a la correspondiente sala de chat. (35 puntos)
 
-- Añadir al usuario una frase de info personal, que se podrá editar en la pantalla correspondiente y se mostrará cuando se muestre la info de ese usuario (6) puntos). 
+- Añadir al usuario una frase de info personal, que se podrá editar en la pantalla correspondiente y se mostrará cuando se muestre la info de ese usuario (6) puntos).
+Nota: Este campo ya lo he creado y ahora mismo está inicializado a cadena vacía en todos los usuarios, su nombre es info y está dentro de cada usuario.

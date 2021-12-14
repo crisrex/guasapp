@@ -28,4 +28,19 @@
     <string name="login_failed">Login Failed</string>
     <string name="uploading">Uploading Image</string>
     <string name="uploading_status">Uploading Status</string>
+    <string name="prompt_email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="fields_required">Fields required</string>
+    <string name="authentication_failed">Authentication Failed</string>
+    <string name="wait">Wait a moment...</string>
+    <string name="logo">Logo</string>
+    <string name="password_length">The minimum password lenght is 6</string>
+    <string name="no_register">Sorry! No register</string>
+    <string name="username">User name</string>
+    <string name="full_name">Full name</string>
+    <string name="prompt_password">Password</string>
+    <string name="register">Register</string>
+    <string name="already_account">Has already account?</string>
 </resources>

@@ -27,4 +27,19 @@
     <string name="login_failed">Falló la identificación</string>
     <string name="uploading">Subiendo imagen</string>
     <string name="uploading_status">Subiendo estado</string>
+    <string name="prompt_email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Login</string>
+    <string name="signup">Registro</string>
+    <string name="fields_required">Campos obligatorios</string>
+    <string name="authentication_failed">Autenticación falló</string>
+    <string name="wait">Espere un momento...</string>
+    <string name="logo">Logotipo</string>
+    <string name="password_length">La longitud mínima de la contraseña es 6</string>
+    <string name="no_register">¡Lo sentimos! No fue posible el registro</string>
+    <string name="username">Nombre</string>
+    <string name="full_name">Nombre completo</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="register">Registro</string>
+    <string name="already_account">¿Tiene ya cuenta?</string>
 </resources>

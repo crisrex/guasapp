@@ -10,16 +10,23 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.WhatsappChatApp"
         android:usesCleartextTraffic="true">
-        <activity android:name=".EstadosActivity"></activity>
-        <activity android:name=".ChatActivity" />
-        <activity android:name=".PerfilActivity" />
-        <activity android:name=".SMSActivity" />
-        <activity android:name=".NumeroTelefonoActivity">
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity android:name=".EstadosActivity" />
+        <activity android:name=".ChatActivity" />
+        <activity android:name=".PerfilActivity" />
+        <activity android:name=".SMSActivity" />
+        <activity android:name=".NumeroTelefonoActivity">
         </activity>
         <activity android:name=".MainActivity" />
     </application>
