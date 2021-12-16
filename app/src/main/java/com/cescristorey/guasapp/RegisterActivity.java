@@ -83,10 +83,10 @@ public class RegisterActivity extends AppCompatActivity {
                             reference = FirebaseDatabase.getInstance().getReference().child( "usuarios" ).child( userid );
 
                             HashMap<String,Object> hashMap = new HashMap<>(  );
-                            hashMap.put( "id",userid );
+                            hashMap.put( "uid",userid );
                             hashMap.put( "nombre",username );
                             hashMap.put( "info",info );
-                            //hashMap.put( "bio","" );
+                            hashMap.put( "numeroTelefono","" );
                             //hashMap.put("imageurl","https://firebasestorage.googleapis.com/v0/b/instagram-clone-69e41.appspot.com/o/placeholder.png?alt=media&token=150b0541-3150-43a8-8792-7bb0fb61c2a8");
 
                             reference.setValue( hashMap ).addOnCompleteListener( new OnCompleteListener<Void>() {
